@@ -1,0 +1,26 @@
+{
+  "name": "payment-card",
+  "version": "1.0.0",
+  "description": "Payment card detection and formatting",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrissrogers/payment-card.git"
+  },
+  "keywords": [
+    "credit",
+    "card",
+    "payment",
+    "payments",
+    "card",
+    "validation",
+    "formatting",
+    "ach"
+  ],
+  "author": "Christopher Rogers <chrissrogers@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrissrogers/payment-card/issues"
+  },
+  "homepage": "https://github.com/chrissrogers/payment-card#readme"
+}
